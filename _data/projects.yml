@@ -11,14 +11,19 @@
 - name: OPEN-SOURCE-SW_07
   link: https://github.com/KyeongTaek/OPEN-SOURCE-SW_07
   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
-  description: 
+  description: 2021-2 오픈소스SW이해 및 실습's team project
 
 - name: SNS-WebSite
   link: https://github.com/KyeongTaek/SNS-WebSite
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: 
+  description: 2021-Winter SW개발자과정 몰입교육's team project
 
 - name: Discrete-Math
   link: https://github.com/KyeongTaek/Discrete-Math
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
-  description: 2022-1 Discrete Math
+  description: 2022-1 Discrete Math (Review)
+
+- name: Algorithm_problems_N_solutions
+  link: https://github.com/KyeongTaek/Algorithm_problems_N_solutions
+  image: https://cdn.pixabay.com/photo/2017/10/10/21/49/youtuber-2838945_960_720.jpg
+  description: Solving various algorithm problems
